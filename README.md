@@ -1,2 +1,2 @@
 # shopping-list
-making a shopping list with vanilla js, html, and css
+making a shopping list with vanilla js, html(boostrap), and css
